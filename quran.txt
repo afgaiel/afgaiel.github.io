@@ -1,5 +1,5 @@
 0,true
 1,https://github.com/afgaiel/Quran-Tajweed/blob/master/ram.jpg?raw=true
-2,3
+2,3000
 3,رمضان كريم 
 3,20
