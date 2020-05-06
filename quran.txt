@@ -1,5 +1,5 @@
 0,true
 1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/ram4.jpg
-2,a
-3,رمضان كريم وكل عام وانتم بخير ثوابا من الله 
+2,3000
+3,
 4,15000
