@@ -1,5 +1,5 @@
 0,true
-1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/eid3.jpg
+1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/eid4.jpg
 2,3000
 3, كل عام وانتم بخير وتقبل الله منا ومنكم عيدكم مبارك
 4,15000
