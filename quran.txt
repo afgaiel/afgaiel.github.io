@@ -1,5 +1,5 @@
-0,false
-1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/eid3.jpg
+0,true
+1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/ashr3.jpg
 2,3000
-3,السلام عليكم ورحمة الله وبركاته
+3,ما من أيام العمل الصالح فيهن أحب إلى الله من هذه الأيام العشر
 4,15000
