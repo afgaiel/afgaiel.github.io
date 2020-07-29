@@ -1,5 +1,5 @@
 0,true
 1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/arafa3.jpg
-2,3000
+2,4000
 3,تذكير بصيام يوم عرفة غدا ان شاء الله - يكفر السنة التي قبله والتي بعده
 4,15000
