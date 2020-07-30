@@ -1,5 +1,5 @@
 0,true
-1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/arafa3.jpg
+1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/ashr3.jpg
 2,4000
-3,تذكير بصيام يوم عرفة غدا ان شاء الله - يكفر السنة التي قبله والتي بعده
+3,قال عليه الصلاة والسلام (خير الدعاء دعاء يوم عرفة، وخير ما قلت أنا والنبيون من قبلي لا إله إلا الله وحده لا شريك له له الملك وله الحمد وهو على كل شيء قدير) رواه الترمذي
 4,15000
