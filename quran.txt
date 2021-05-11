@@ -1,5 +1,5 @@
 0,true
-1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/ram4.jpg
+1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/eid1.jpg
 2,4000
-3,رمضان كريم
+3,عيدكم مبارك
 4,55000
