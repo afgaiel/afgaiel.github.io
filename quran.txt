@@ -1,5 +1,5 @@
 0,true
-1,https://raw.githubusercontent.com/afgaiel/afgaiel.github.io/master/eid1.jpg
+1,https://gaielsoft.com/greetings/shawal1.jpg
 2,4000
-3,عيدكم مبارك
+3,السلام عليكم ورحمة الله وبركاته
 4,55000
