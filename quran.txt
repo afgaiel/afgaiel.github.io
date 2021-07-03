@@ -2,4 +2,4 @@
 1,https://gaielsoft.com/greetings/dolqedah.jpg
 2,4000
 3,السلام عليكم ورحمة الله وبركاته
-4,55000
+4,20000
