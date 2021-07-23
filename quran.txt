@@ -1,5 +1,5 @@
 0,true
-1,https://gaielsoft.com/greetings/eid_adha3.jpg
+1,https://gaielsoft.com/greetings/dolhejah.jpg
 2,4000
 3,السلام عليكم ورحمة الله وبركاته
 4,20000
