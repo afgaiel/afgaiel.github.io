@@ -1,7 +1,7 @@
 0,true
 1,https://gaielsoft.com/greetings/current.jpg
 2,4000
-3,Ramadan Kareem رمضان كريم
+3,Happy Eid عيدكم مبارك
 4,40000
 5,true
 6,false
